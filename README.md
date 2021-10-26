@@ -9,6 +9,6 @@ My First Github Repository
 -----
 
 ## 오늘 할 일
-  - [ ] github 가입하기
-  - [ ] 첫번째 저장소 만들기
+  - [x] github 가입하기
+  - [x] 첫번째 저장소 만들기
   - [ ] Atom 살펴보기
